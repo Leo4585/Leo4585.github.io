@@ -3,7 +3,7 @@
         "titulo": "Vue.js: Construa aplicações incríveis",
         "preco": 29.9,
         "autor": "Caio Incau",
-        "imagem": "https://github.com/Leo4585/bela-vista-imagens/blob/main/casa1-imagem2.jpg",
+        "imagem": "https://leo4585.github.io//casa1-imagem2.jpg",
         "alt": "Capa do livro de Front-end com Vue.js",
         "quantidade": 50,
         "categoria": "front-end"
@@ -12,7 +12,7 @@
         "titulo": "PostgreSQL: Banco de dados para aplicações web modernas",
         "preco": 89.9,
         "autor": "Vinícius Carvalho",
-        "imagem": "https://github.com/Leo4585/bela-vista-imagens/blob/main/casa1-imagem3.jpg",
+        "imagem": "https://leo4585.github.io//casa1-imagem3.jpg",
         "alt": "Capa do livro de PostgreSQL",
         "quantidade": 8,
         "categoria": "dados"
@@ -21,7 +21,7 @@
         "titulo": "Sass: Aprendendo pré-processadores CSS",
         "preco": 79.9,
         "autor": "Natan Souza",
-        "imagem": "https://github.com/Leo4585/bela-vista-imagens/blob/main/casa1-imagem6.jpg",
+        "imagem": "https://leo4585.github.io//casa1-imagem6.jpg",
         "alt": "Capa do livro de Front-end com Vue.js",
         "quantidade": 11,
         "categoria": "front-end"
@@ -30,7 +30,7 @@
         "titulo": "HTML5 e CSS3: Domine a web do futuro",
         "preco": 49.9,
         "autor": "Lucas Mazza",
-        "imagem": "https://github.com/Leo4585/bela-vista-imagens/blob/main/casa1-imagem7.jpg",
+        "imagem": "https://leo4585.github.io//casa1-imagem7.jpg",
         "alt": "Capa do livro de HTML e CSS",
         "quantidade": 0,
         "categoria": "front-end"
@@ -39,7 +39,7 @@
         "titulo": "Cangaceiro JavaScript: Uma aventura no sertão da programação",
         "preco": 19.9,
         "autor": "Flávio Almeida",
-        "imagem": "https://github.com/Leo4585/bela-vista-imagens/blob/main/casa1-imagem8.jpg",
+        "imagem": "https://leo4585.github.io//casa1-imagem8.jpg",
         "alt": "Capa do livro Cangaceiro JavaScript",
         "quantidade": 42,
         "categoria": "front-end"
