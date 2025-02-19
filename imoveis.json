@@ -10,11 +10,11 @@
         "qtd-banheiros": 2,
         "qtd-vagas-garagem": 1,
         "categoria": "casa",
-        "imagem1": "imgem1 link",
-        "imagem2": "imgem2 link",
-        "imagem3": "imgem1 link",
-        "imagem4": "imgem1 link",
-        "imagem5": "imgem1 link",
+        "imagem1": "https://leo4585.github.io/casa1-imagem1.jpg",
+        "imagem2": "https://leo4585.github.io/casa1-imagem2.jpg",
+        "imagem3": "https://leo4585.github.io/casa1-imagem3.jpg",
+        "imagem4": "https://leo4585.github.io/casa1-imagem4.jpg",
+        "imagem5": "https://leo4585.github.io/casa1-imagem5.jpg",
         "alt": "imagem do imóvel ou terreno"
     }
 ]
