@@ -1,0 +1,20 @@
+[
+    {
+        "titulo": "Casa à venda",
+        "valor": 210,
+        "bairro": "Residencial Jardim Universitário 2",
+        "rua-numero": "Rua D, 37",
+        "cidade-estado": "Irecê, Bahia",
+        "metragem-total": 200,
+        "qtd-dormitorios": 3,
+        "qtd-banheiros": 2,
+        "qtd-vagas-garagem": 1,
+        "categoria": "casa",
+        "imagem1": "imgem1 link",
+        "imagem2": "imgem2 link",
+        "imagem3": "imgem1 link",
+        "imagem4": "imgem1 link",
+        "imagem5": "imgem1 link",
+        "alt": "imagem do imóvel ou terreno"
+    }
+]
