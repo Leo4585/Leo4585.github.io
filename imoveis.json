@@ -1,7 +1,7 @@
 [
     {
         "titulo": "Casa à venda",
-        "valor": "210.000",
+        "valor": 210000.00,
         "bairro": "Residencial Jardim Universitário 2",
         "ruaNumero": "Rua D, 37",
         "cidadeEstado": "Irecê, Bahia",
@@ -19,7 +19,7 @@
     },
     {
         "titulo": "Terreno à venda",
-        "valor": "90.000,
+        "valor": 90000.00,
         "bairro": "Loteamento Licínio Barreto",
         "ruaNumero": "Rua projetada T",
         "cidadeEstado": "Irecê, Bahia",
@@ -37,7 +37,7 @@
     },
     {
         "titulo": "Casa para aluguel",
-        "valor": "1.000",
+        "valor": 1.000.00,
         "bairro": "Coopirecê",
         "ruaNumero": "Rua F, 105",
         "cidadeEstado": "Irecê, Bahia",
@@ -55,7 +55,7 @@
     },
     {
         "titulo": "Casa à venda",
-        "valor": "360.000",
+        "valor": 360000.00,
         "bairro": "Tropical Center",
         "ruaNumero": "Rua H, 58",
         "cidadeEstado": "Irecê, Bahia",
@@ -73,7 +73,7 @@
     },
     {
         "titulo": "Casa à venda",
-        "valor": "310.000",
+        "valor": 310000.00,
         "bairro": "Novo Irecê",
         "ruaNumero": "Rua B, 110",
         "cidadeEstado": "Irecê, Bahia",
@@ -91,7 +91,7 @@
     },
     {
         "titulo": "Terreno à venda",
-        "valor": "70.000",
+        "valor": 70000.00",
         "bairro": "Loteamento Belo Jardim",
         "ruaNumero": "Rua E",
         "cidadeEstado": "Irecê, Bahia",
