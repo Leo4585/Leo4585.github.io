@@ -1,22 +1,19 @@
 [
     {
         "id": 1,
-        "titulo": "Casa à venda",
-        "valor": 210000.00,
-        "bairro": "Residencial Jardim Universitário 2",
-        "ruaNumero": "Rua D, 37",
+        "titulo": "Terreno à venda",
+        "valor": 69000.00,
+        "bairro": "Loteamento Belo Jardim",
+        "ruaNumero": "Rua J",
         "cidadeEstado": "Irecê, Bahia",
         "metragemTotal": 200,
-        "qtdDormitorios": 3,
-        "qtdBanheiros": 2,
-        "qtdVagasGaragem": 1,
-        "categoria": "casa",
+        "qtdDormitorios": "NA",
+        "qtdBanheiros": "NA",
+        "qtdVagasGaragem": "NA",
+        "categoria": "terreno",
         "imagens": [
             "https://leo4585.github.io/casa-1/casa1-imagem1.jpg",
-            "https://leo4585.github.io/casa-1/casa1-imagem2.jpg",
-            "https://leo4585.github.io/casa-1/casa1-imagem3.jpg",
-            "https://leo4585.github.io/casa-1/casa1-imagem4.jpg",
-            "https://leo4585.github.io/casa-1/casa1-imagem5.jpg"
+            "https://leo4585.github.io/casa-1/casa1-imagem2.jpg"
         ],
         "alt": "imagem do imóvel ou terreno"
     },
