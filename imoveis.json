@@ -36,5 +36,27 @@
             "https://leo4585.github.io/casa-2/imagem4.jpg"
         ],
         "alt": "imagem do imóvel ou terreno"
+    },
+    {
+        "id": 3,
+        "titulo": "Casa à venda",
+        "valor": 360000.00,
+        "bairro": "Arnóbio Batista",
+        "ruaNumero": "Rua H",
+        "cidadeEstado": "Irecê, Bahia",
+        "metragemTotal": 260,
+        "qtdDormitorios": 3,
+        "qtdBanheiros": 2,
+        "qtdVagasGaragem": 1,
+        "categoria": "casa",
+        "imagens": [
+            "https://leo4585.github.io/casa-3/imagem1.jpg",
+            "https://leo4585.github.io/casa-3/imagem2.jpg",
+            "https://leo4585.github.io/casa-3/imagem3.jpg",
+            "https://leo4585.github.io/casa-3/imagem4.jpg",
+            "https://leo4585.github.io/casa-3/imagem5.jpg",
+            "https://leo4585.github.io/casa-3/imagem6.jpg"
+        ],
+        "alt": "imagem do imóvel ou terreno"
     }
 ]
